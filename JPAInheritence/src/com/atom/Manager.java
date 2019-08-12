@@ -12,6 +12,7 @@ public class Manager extends Employee {
 		return departmentName;
 	}
 	public void setDepartmentName(String departmentName) {
-		this.departmentName = departmentName;
+		this.departmentName = departmentName;//
+		
 	}
 }
